@@ -1,4 +1,4 @@
-# blazor-scheduler-export-exel
+# Blazor Scheduler Export Exel
 A quick-start project that helps you how to Export in Blazor Scheduler Component. 
 
 Documentation: https://blazor.syncfusion.com/documentation/scheduler/exporting#excel-exporting
