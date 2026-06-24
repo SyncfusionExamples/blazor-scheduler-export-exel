@@ -1,6 +1,6 @@
-# Blazor Scheduler Export Excel
+# How to export appointments to Excel in Blazor Scheduler
 
-A quick-start project demonstrating how to export appointments and calendar data to Excel format in the Blazor Scheduler Component. This sample showcases the complete export functionality with multiple export options and customization capabilities.
+A quick-start project demonstrating how to export appointments and calendar data to Excel format in the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) Component. This sample showcases the complete export functionality with multiple export options and customization capabilities.
 
 ## Project Overview
 
