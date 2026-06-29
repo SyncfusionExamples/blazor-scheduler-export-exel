@@ -1,15 +1,26 @@
-# Blazor Scheduler Export Exel
-A quick-start project that helps you how to Export in Blazor Scheduler Component. 
+# How to export appointments to Excel in Blazor Scheduler
 
-Documentation: https://blazor.syncfusion.com/documentation/scheduler/exporting#excel-exporting
+This quick-start project demonstrates how to export appointments and calendar data from the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) to Excel format. It showcases implementing export functionality with customization options, enabling users to efficiently archive, share, and manage scheduling data through Excel workbooks in Blazor applications.
 
-Online examples: https://blazor.syncfusion.com/demos/scheduler/export-to-excel?theme=fluent
-                 
-# Project prerequisites
-Make sure that you have the latest versions of 'Visual Studio 2022' in your machine before starting to work on this project.
-# How to run this application?
-• To run this application, you need to first clone the <code>blazor-scheduler-export-exel</code> repository and then open it in Visual Studio 2022.
+## Prerequisites
 
-• Register the syncfusion license key in the Program.cs file, if you have any doubts check the documentation link:  https://blazor.syncfusion.com/documentation/getting-started/license-key/how-to-register-in-an-application
+* Visual Studio 2022
+* .NET 7.0 or later
 
-• Now, simply build and run your project to view the output.
+## Getting Started
+
+This sample demonstrates the Export to Excel functionality of the Blazor Scheduler component. You can export events with all their properties, custom fields, and resource information directly to Excel format for reporting and data analysis purposes.
+
+## How to run the project
+
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
+
+## Documentation
+
+- **Framework Documentation**: https://blazor.syncfusion.com/documentation/introduction
+- **Scheduler Component**: https://blazor.syncfusion.com/documentation/schedule/getting-started
+- **Export Feature**: https://blazor.syncfusion.com/documentation/scheduler/exporting#excel-exporting
+- **Online Examples**: https://blazor.syncfusion.com/demos/scheduler/export-to-excel?theme=fluent
